@@ -1,15 +1,16 @@
-# Sermon Studio — Official Desktop Releases
+# Sermon Studio — Official Downloads
 
-Official public binary distributions, installers, SHA-256 checksums, and changelogs for **Sermon Studio** by **AromaxTech**.
+Welcome to the official download repository for **Sermon Studio**, offline-first sermon preparation and pulpit presentation software for pastors and ministry teams.
 
-- **Website & Downloads:** https://sermonstudioapps.org/downloads#sermon-studio
-- **Latest Releases:** https://github.com/AromaxTech/sermon-studio-releases/releases/latest
-- **Full Changelog:** [CHANGELOG.md](./CHANGELOG.md)
+- **Official Website & Downloads:** https://sermonstudioapps.org/downloads#sermon-studio
+- **Web App:** https://studio.sermonstudioapps.org
+- **Latest Release:** https://github.com/AromaxTech/sermon-studio-releases/releases/latest
+- **What's New (Changelog):** [CHANGELOG.md](./CHANGELOG.md)
 
-## Installing
-1. Open the [Releases](https://github.com/AromaxTech/sermon-studio-releases/releases) page.
-2. Download the installer for your platform (.exe / .msi for Windows, .dmg for macOS, .AppImage for Linux).
-3. Verify integrity against SHA256SUMS.txt if required.
+## How to Install
+1. Visit the [Releases](https://github.com/AromaxTech/sermon-studio-releases/releases) page or download directly from [sermonstudioapps.org](https://sermonstudioapps.org/downloads#sermon-studio).
+2. Choose the installer for your computer (**Windows** .exe, **macOS** .dmg, or **Linux** .AppImage).
+3. Optional: Verify your download integrity using the included SHA256SUMS.txt checksum file.
 
----
-*Published and managed via Sermon Studio Dev Console.*
+## Need Help?
+Visit our support center at https://sermonstudioapps.org/support.
